@@ -1,2 +1,2 @@
 hello git!
-no
+no or yes
